@@ -12,5 +12,9 @@
 - [openCV](https://pypi.org/project/opencv-python/) or simply `pip install cv2`
 - [pandas](https://data-flair.training/blogs/pandas-tutorials-home/) or simply `pip install pandas`
 
-
+### First import these libraries in your python IDE
+- `import cv2`
+- `import numpy as np`
+- `import pandas as pd`
+- `import argparse`
  
